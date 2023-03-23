@@ -10,6 +10,8 @@ h1, h2 { font-family: Impact, serif; }
 
 .established { font-style: italic; }
 
+hr { height: 3px; }
+
 h1 { font-size: 40px; }
 
 h2 { font-size: 30px; }
