@@ -6,6 +6,8 @@ body
     font-family: sans-serif;
 }
 
+h1, h2 { font-family: Impact; }
+
 .menu 
 { 
     width: 80%; 
