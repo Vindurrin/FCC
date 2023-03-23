@@ -57,3 +57,4 @@ h2 { font-size: 30px; }
 /* FOOTER */
 footer { font-size: 14px; }
 a { color: black; }
+a:visited { color: grey; }
