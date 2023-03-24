@@ -1,1 +1,10 @@
 p { text-align: right; }
+
+h1 { text-align: center; }
+
+.marker { 
+    background-color: red; 
+    height: 25px;
+    width: 200px;
+    margin: auto;
+}
